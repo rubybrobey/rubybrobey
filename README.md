@@ -1,7 +1,24 @@
-### Hi there 👋
+### Hi, I'm Ruby ✨
+😊 Embarking on my journey as an aspiring software developer<br/>
+👩‍🎓 Studied BSc Psychological Counselling at LSBU</br>
+🚀 Transitioning from recruitment within the NHS to pursue a career in the tech</br>
+🧠 Neurodivergent</br>
+📖 Currently, immersing myself in a comprehensive 12-week software development bootcamp with JustIt...
+
+<!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybrobey&show_icons=true&theme=radical)
+<!-- https://github.com/Ileriayo/markdown-badges -->
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 
 <!--
-**rubybrobey/rubybrobey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rubybrobey/rubybrobey** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
