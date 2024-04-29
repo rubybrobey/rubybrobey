@@ -1,3 +1,5 @@
+
+
 ### Hi, I'm Ruby ✨
 😊 Embarking on my journey as an aspiring software developer<br/>
 👩‍🎓 Studied BSc Psychological Counselling at LSBU</br>
@@ -14,6 +16,11 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rubybrobey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubybrobey" height="30" width="40" /></a>
+</p>
 
 
 
