@@ -2,10 +2,8 @@
 
 ### Hi, I'm Ruby ✨
 😊 Embarking on my journey as an aspiring software developer<br/>
-👩‍🎓 Studied BSc Psychological Counselling at LSBU</br>
-🚀 Transitioning from recruitment within the NHS to pursue a career in the tech</br>
-🧠 Neurodivergent</br>
-📖 Currently, immersing myself in a comprehensive 12-week software development bootcamp with JustIt...
+👩‍🎓 Studying Msc Data Science</br>
+
 
 <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubybrobey&show_icons=true&theme=radical)
