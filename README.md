@@ -1,7 +1,7 @@
 
 
-### Hi, I'm Ruby ✨
-😊 Embarking on my journey as an aspiring software developer<br/>
+### Hey, I'm Ruby ✨
+😊 Aspiring developer<br/>
 👩‍🎓 Studying Msc Data Science</br>
 
 
